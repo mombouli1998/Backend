@@ -1,0 +1,33 @@
+{
+  "client":[
+     {
+      "id":1,
+      "nom":"mombouli",
+      "prenom":"trinité",
+      "solde":20,
+      "password":"trinite1998"
+     },
+     {
+      "id":2,
+      "nom":"Dupont",
+      "prenom":"marie",
+      "solde":20,
+      "password":"Mdupont"
+     },
+     {
+      "id":3,
+      "nom":"annne",
+      "prenom":"Marie",
+      "solde":20,
+      "password":"Anne_M"
+     },
+     {
+      "id":4,
+      "nom":"jule",
+      "prenom":"césar",
+      "solde":20,
+      "password":"juleC"
+     }
+
+  ]
+}
